@@ -1,3 +1,4 @@
+LINK: [https://www.youtube.com/watch?v=xO9yMTzZi4k]
 #include <stdio.h>
 
 void main() {
