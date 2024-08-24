@@ -35,3 +35,21 @@ for(i=min;i<=max;i++)
 return 0;
   
 }
+O/P
+    
+Enter minimum: 1
+Enter maximum: 1000
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+153
+370
+371
+407
