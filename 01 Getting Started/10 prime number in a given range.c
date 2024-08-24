@@ -18,3 +18,12 @@ void main() {
     }
   }  
 }
+O/P 
+    enter value of min3
+enter value of max15
+
+ 3
+ 5
+ 7
+ 11
+ 13
