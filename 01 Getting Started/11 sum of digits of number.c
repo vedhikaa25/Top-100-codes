@@ -15,5 +15,4 @@ printf("\n%d",sum);
 }
 O/P
   enter the num1234
-
-10
+  10
